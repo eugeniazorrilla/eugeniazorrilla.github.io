@@ -1,1 +1,30 @@
-Va el titulo
+<div class="card-body">
+  <h1>Cerca de la nube</h1>
+  <img class="card-img-bottom" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQC7HL0_1dl2zsEvBn1IV2Rqcs3i_Kve9nNtCGQ9vvK80aDXhpw" alt="nubes">
+  <hr>
+  <div class="m-2 p-0">
+    <p><div class="container">
+        <span>Veo al pájaro</span>
+      </div><div class="container">
+        <span>y la nube que pasa. </span>
+      </div></p>
+    <p><div class="container">
+        <span>Sé que piensa en el agua</span>
+      </div><div class="container">
+        <span>en su sed </span>
+      </div><div class="container">
+        <span>y en el ritmo de su canto. </span>
+      </div></p>
+    <p><div class="container">
+        <span>Pero no es el pájaro,</span>
+      </div><div class="container">
+        <span>soy yo,</span>
+      </div><div class="container">
+        <span>la que ve por sus ojos. </span>
+      </div></p>
+  </div>
+</div>
+
+<a href="index.html">Leer más poemas</a>
+
+<div class="card"></div>
